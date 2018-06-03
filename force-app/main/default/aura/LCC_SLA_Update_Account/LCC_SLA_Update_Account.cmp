@@ -1,0 +1,45 @@
+<aura:component extends="c:LCC_GenericLightningComponent" implements="flexipage:availableForRecordHome">
+        
+    <aura:handler event="c:LCC_GenericApplicationEvent" action="{!c.update}"/>
+    <aura:if isTrue="{!v.sObjectInfo.Id!=null}">
+        
+        <div class="modal-header slds-modal__header slds-modal__header">
+            <div class="title slds-text-heading--medium">Edit</div>
+        </div>
+        <div class="slds-p-bottom_large slds-p-left_large">
+
+         <lightning:recordEditForm aura:id="update" 
+                                  recordId="0017E00000pz5faQAA"
+                                  objectApiName="Account">
+            <lightning:messages />
+            <div class="modal-body scrollable slds-modal__content slds-p-around--medium">
+<!-- Display an editing form-->
+        	<!--Sintaxis: 
+    		<lightning:inputField fieldName="Name" aura:id="Name"/>-->
+	<lightning:inputField fieldName="Site" aura:id="Site"/>
+<lightning:inputField fieldName="Industry" aura:id="Industry"/>
+<lightning:inputField fieldName="BillingAddress" aura:id="BillingAddress"/>
+<lightning:inputField fieldName="ParentId" aura:id="ParentId"/>
+<lightning:inputField fieldName="Type" aura:id="Type"/>
+<lightning:inputField fieldName="SLASerialNumber__c" aura:id="SLASerialNumber__c" value="123"/>
+<lightning:inputField fieldName="Phone" aura:id="Phone"/>
+<lightning:inputField fieldName="Website" aura:id="Website"/>
+<lightning:inputField fieldName="AnnualRevenue" aura:id="AnnualRevenue"/>
+<lightning:inputField fieldName="Name" aura:id="Name"/>
+	
+            </div>
+             <div class="slds-clearfix">
+                <div class="slds-clearfix">
+                <div class="slds-float_right" role="group" >
+
+                <lightning:button class="slds-m-top_small slds-m-right_small" label="Cancel" onclick="{!c.handleCancelRecord}"/>
+                <lightning:button class="slds-m-top_small" type="submit" label="Save" variant="brand" onclick="{!c.handleSaveRecord}"/>
+                    </div>
+                 </div>
+             </div>
+            </lightning:recordEditForm>
+        </div>
+            
+        
+    </aura:if>
+</aura:component>

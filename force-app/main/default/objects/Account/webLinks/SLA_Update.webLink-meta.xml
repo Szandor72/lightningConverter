@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SLA_Update</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <linkType>javascript</linkType>
+    <masterLabel>SLA Update</masterLabel>
+    <openType>onClickJavaScript</openType>
+    <protected>false</protected>
+    <url>location.replace("/001w0000019ykpr/e?00Nw0000004hIV3=123")</url>
+</WebLink>

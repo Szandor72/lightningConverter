@@ -1,0 +1,47 @@
+<aura:component extensible="true" abstract="true"
+                implements="force:hasRecordId,force:lightningQuickActionWithoutHeader"
+                controller="LCC_JSMQueryResultService">
+    <aura:attribute name="recordId" type="Id" />
+    <aura:attribute name="sObjectInfo" type="Object" />
+    <aura:attribute name="simpleRecord" type="Object"/>
+    <aura:attribute name="recordError" type="String"/>
+    
+    <!--attributes for global variables-->
+    <aura:attribute name="User" type="LCC_JSMUserInfo" />
+    <aura:attribute name="Profile" type="Profile" />
+    <aura:attribute name="Site" type="LCC_JSMSiteInfo" />
+
+    <!-- register the events to fire -->
+    <aura:registerEvent name="GenericApplicationEvent"   type="c:LCC_GenericApplicationEvent"/>
+    <aura:registerEvent name="QueryApplicationEvent" type="c:LCC_QueryApplicationEvent"/>
+    
+    <force:recordData aura:id="recordLoader"
+      recordId="{!v.recordId}"
+      layoutType="FULL"
+      targetRecord="{!v.simpleRecord}"
+      targetFields="{!v.sObjectInfo}"
+      targetError="{!v.recordError}"
+      recordUpdated="{!c.handleRecordUpdated}"
+    />
+    
+    <aura:attribute name="partially" type="Boolean" default="false"/>
+    <aura:renderIf isTrue="{!v.partially}">
+        <div class="slds-m-horizontal--xx-large slds-m-top_xx-large slds-text-align_center">
+            <lightning:icon iconName="utility:warning" size="large"/>
+        </div>
+        <div class="slds-m-around--x-large slds-text-align_center slds-text-heading_small">
+            <p>This Js Button has been partially migrated. Contact with your System Administrator to review the functionality.</p>
+        </div>
+    </aura:renderIf>
+    <!-- body of sub components -->
+  	{!v.body}
+    
+    <!-- Display Lightning Data Service errors, if any -->
+    <aura:if isTrue="{!not(empty(v.recordError))}">
+        <div class="recordError">
+            <ui:message title="Error" severity="error" closable="true">
+                {!v.recordError}
+            </ui:message>
+        </div>
+    </aura:if>
+</aura:component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuickAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Created from Lightning Experience Configuration Converter.</description>
+    <height>600</height>
+    <label>SLA Update</label>
+    <lightningComponent>LCC_SLA_Update_Account</lightningComponent>
+    <optionsCreateFeedItem>false</optionsCreateFeedItem>
+    <type>LightningComponent</type>
+    <width>-100</width>
+</QuickAction>

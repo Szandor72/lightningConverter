@@ -1,0 +1,646 @@
+[
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038483315,
+            "changeTime": 1528038483315,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038483315,
+            "changeTime": 1528038483315,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964808,
+            "changeTime": 1528038964808,
+            "contentHash": "a8d429339263fc2d0f8d6cb5c4f4c669e6b75016",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964993,
+            "changeTime": 1528038964993,
+            "contentHash": "9a2c29281af2512245179f9edf78ecc6238eda97",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericApplicationEvent",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericApplicationEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964874,
+            "changeTime": 1528038964874,
+            "contentHash": "7cc623adc58dc2d114c992cf4660b07f07f068d3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericApplicationEvent\\LCC_GenericApplicationEvent.evt",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericApplicationEvent\\LCC_GenericApplicationEvent.evt",
+            "isDirectory": false,
+            "size": 62,
+            "modifiedTime": 1528038964876,
+            "changeTime": 1528038964876,
+            "contentHash": "8cdbd7f680e6f8409a64c03b86295cae27fe0eef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericApplicationEvent\\LCC_GenericApplicationEvent.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericApplicationEvent\\LCC_GenericApplicationEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1528038964863,
+            "changeTime": 1528038964863,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964970,
+            "changeTime": 1528038964970,
+            "contentHash": "f9e8c3c53e59a72dcd353162490afae5db7530ea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponent.cmp",
+            "isDirectory": false,
+            "size": 2060,
+            "modifiedTime": 1528038964900,
+            "changeTime": 1528038964900,
+            "contentHash": "88dd434226a54193ba6af9027926923b46476561",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1528038964884,
+            "changeTime": 1528038964884,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponent.css",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponent.css",
+            "isDirectory": false,
+            "size": 956,
+            "modifiedTime": 1528038964913,
+            "changeTime": 1528038964913,
+            "contentHash": "6a47cb8c80a0441d240ec834011ce8ee2ff8030a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponentController.js",
+            "isDirectory": false,
+            "size": 1226,
+            "modifiedTime": 1528038964934,
+            "changeTime": 1528038964934,
+            "contentHash": "77b3af8b01bd8c1aebc0d278b4733e33a86daa9a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponentHelper.js",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_GenericLightningComponent\\LCC_GenericLightningComponentHelper.js",
+            "isDirectory": false,
+            "size": 4509,
+            "modifiedTime": 1528038964973,
+            "changeTime": 1528038964973,
+            "contentHash": "44466f21f5f4f0a9a81c826dea556038a3677872",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_QueryApplicationEvent",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_QueryApplicationEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964986,
+            "changeTime": 1528038964986,
+            "contentHash": "08447265d4b5c481f4a83fd7ff13602a89d5d05e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_QueryApplicationEvent\\LCC_QueryApplicationEvent.evt",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_QueryApplicationEvent\\LCC_QueryApplicationEvent.evt",
+            "isDirectory": false,
+            "size": 62,
+            "modifiedTime": 1528038964988,
+            "changeTime": 1528038964988,
+            "contentHash": "8cdbd7f680e6f8409a64c03b86295cae27fe0eef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_QueryApplicationEvent\\LCC_QueryApplicationEvent.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_QueryApplicationEvent\\LCC_QueryApplicationEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1528038964982,
+            "changeTime": 1528038964982,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038965046,
+            "changeTime": 1528039093785,
+            "contentHash": "39e1935732254fb78aa338f3c9b74dfe13fb1dc6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account\\LCC_SLA_Update_Account.cmp",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account\\LCC_SLA_Update_Account.cmp",
+            "isDirectory": false,
+            "size": 2163,
+            "modifiedTime": 1528049069352,
+            "changeTime": 1528049069352,
+            "contentHash": "2e53a59f70d03e245507610a6189fd6b80bec0e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account\\LCC_SLA_Update_Account.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account\\LCC_SLA_Update_Account.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1528038964997,
+            "changeTime": 1528038964997,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account\\LCC_SLA_Update_Account.css",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account\\LCC_SLA_Update_Account.css",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1528038965026,
+            "changeTime": 1528038965026,
+            "contentHash": "f1995e1ba34663421ade348483574fead95152ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account\\LCC_SLA_Update_AccountController.js",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\aura\\LCC_SLA_Update_Account\\LCC_SLA_Update_AccountController.js",
+            "isDirectory": false,
+            "size": 608,
+            "modifiedTime": 1528049069326,
+            "changeTime": 1528049069326,
+            "contentHash": "3455522eeb98030794bd2b3d10eff42161b93b07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038963974,
+            "changeTime": 1528038963974,
+            "contentHash": "0978b0c8dc241c53882cd17b72c9e8c2bd970bf5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMQueryResultService.cls",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMQueryResultService.cls",
+            "isDirectory": false,
+            "size": 2066,
+            "modifiedTime": 1528038963937,
+            "changeTime": 1528038963937,
+            "contentHash": "671602d1d5b3655393e5e4287bd5e2b1f5d8de9f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMQueryResultService.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMQueryResultService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1528038963922,
+            "changeTime": 1528038963922,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMSiteInfo.cls",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMSiteInfo.cls",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1528038963961,
+            "changeTime": 1528038963961,
+            "contentHash": "768028c0b14b3e219fcb0d7c4a1f131aab9b37db",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMSiteInfo.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMSiteInfo.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1528038963949,
+            "changeTime": 1528038963949,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMUserInfo.cls",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMUserInfo.cls",
+            "isDirectory": false,
+            "size": 353,
+            "modifiedTime": 1528038963982,
+            "changeTime": 1528038963982,
+            "contentHash": "d2c927ca1a2f777ca71b8759c5046e0c0321866b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMUserInfo.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\classes\\LCC_JSMUserInfo.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1528038963971,
+            "changeTime": 1528038963971,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964027,
+            "changeTime": 1528038964027,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 18285,
+            "modifiedTime": 1528049069312,
+            "changeTime": 1528049069312,
+            "contentHash": "bc2a0189eb7271e813c292ac74c0e7f04e70f2b9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964133,
+            "changeTime": 1528038964133,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964634,
+            "changeTime": 1528038964634,
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 3678,
+            "modifiedTime": 1528038964147,
+            "changeTime": 1528038964147,
+            "contentHash": "bfe4b669a03b65740d70335e84107941550f7973",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528039047918,
+            "changeTime": 1528039047918,
+            "contentHash": "27cc41c8d9915a6aa8ba02a603a354e15f067351",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 422,
+            "modifiedTime": 1528038964460,
+            "changeTime": 1528038964460,
+            "contentHash": "d66d7f42a7ef5f510b50e8940b907dc6f45fca5c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\listViews",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528039062303,
+            "changeTime": 1528039062303,
+            "contentHash": "92be35cd59c739e6f378bec2e91e61d0923b5852",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1528049518654,
+            "changeTime": 1528049518654,
+            "contentHash": "a7885b7d05fc0cb81307926222d61aa185e20952",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\webLinks",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\webLinks",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964650,
+            "changeTime": 1528038964650,
+            "contentHash": "28026d6105e21603bccc1f0dd86fd1ff3f414a0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\webLinks\\Billing.webLink-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\webLinks\\Billing.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 747,
+            "modifiedTime": 1528038964648,
+            "changeTime": 1528038964648,
+            "contentHash": "ae9648d035d739cc9d6410b71a5fb48123e6463f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\webLinks\\SLA_Update.webLink-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\objects\\Account\\webLinks\\SLA_Update.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 450,
+            "modifiedTime": 1528038964663,
+            "changeTime": 1528038964663,
+            "contentHash": "08253b189f211c4f7f5cb55116926d83a53928b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\quickActions",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\quickActions",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528038964843,
+            "changeTime": 1528038964843,
+            "contentHash": "d8934ca53a4b3e28056c67eb48a7bed9dcab04ef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\quickActions\\Account.LCC_SLA_Update.quickAction-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter\\force-app\\main\\default\\quickActions\\Account.LCC_SLA_Update.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1528049069279,
+            "changeTime": 1528049069279,
+            "contentHash": "723913771631eaf9b71f025e842c783630c9bd96",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter",
+        {
+            "sourcePath": "C:\\Users\\szand\\OneDrive\\dev\\tmp\\lightningConverter",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528049011130,
+            "changeTime": 1528049011130,
+            "contentHash": "9927f6a2a1d070d9865db76bd4c8b7d0c16c0827",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
